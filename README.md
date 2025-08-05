@@ -1,6 +1,6 @@
 # Portfolio - Youtube
 
-![Design preview for the youtube.com portfolio project](.images/preview.jpg)
+![Design preview for the youtube.com portfolio project](./images/preview.jpg)
 
 ## Welcome! 👋
 
